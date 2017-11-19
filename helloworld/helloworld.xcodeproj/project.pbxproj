@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A56A9A851FA462E10043F3A3 /* GraphicEditor.c in Sources */ = {isa = PBXBuildFile; fileRef = A56A9A841FA462E10043F3A3 /* GraphicEditor.c */; };
+		A51A011A1FC16DA700EDDC7E /* JollyJumpers.c in Sources */ = {isa = PBXBuildFile; fileRef = A51A01191FC16DA700EDDC7E /* JollyJumpers.c */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -23,10 +23,14 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		A513DB021FA74F4800477FD1 /* CheckTheCheck.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = CheckTheCheck.c; sourceTree = "<group>"; };
+		A513DB041FB094F000477FD1 /* AustralianVoting.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = AustralianVoting.c; sourceTree = "<group>"; };
+		A51A01191FC16DA700EDDC7E /* JollyJumpers.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = JollyJumpers.c; sourceTree = "<group>"; };
 		A56A9A7D1F9E11660043F3A3 /* TheTrip.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = TheTrip.c; sourceTree = "<group>"; };
 		A56A9A801F9F6DA40043F3A3 /* MineSweeper.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = MineSweeper.c; sourceTree = "<group>"; };
 		A56A9A821FA205720043F3A3 /* LCDDisplay.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = LCDDisplay.c; sourceTree = "<group>"; };
 		A56A9A841FA462E10043F3A3 /* GraphicEditor.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = GraphicEditor.c; sourceTree = "<group>"; };
+		A56A9A861FA6019E0043F3A3 /* Interpreter.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = Interpreter.c; sourceTree = "<group>"; };
 		A57A5F1E1F9ABEAE0013EE2B /* helloworld */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = helloworld; sourceTree = BUILT_PRODUCTS_DIR; };
 		A57A5F211F9ABEAE0013EE2B /* 3n+1.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = "3n+1.c"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -66,6 +70,10 @@
 				A56A9A801F9F6DA40043F3A3 /* MineSweeper.c */,
 				A56A9A821FA205720043F3A3 /* LCDDisplay.c */,
 				A56A9A841FA462E10043F3A3 /* GraphicEditor.c */,
+				A56A9A861FA6019E0043F3A3 /* Interpreter.c */,
+				A513DB021FA74F4800477FD1 /* CheckTheCheck.c */,
+				A513DB041FB094F000477FD1 /* AustralianVoting.c */,
+				A51A01191FC16DA700EDDC7E /* JollyJumpers.c */,
 			);
 			path = helloworld;
 			sourceTree = "<group>";
@@ -127,7 +135,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				A56A9A851FA462E10043F3A3 /* GraphicEditor.c in Sources */,
+				A51A011A1FC16DA700EDDC7E /* JollyJumpers.c in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
